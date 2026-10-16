@@ -25,9 +25,9 @@
 
 ## 🔐 Security
 
-I also study cybersecurity through [TryHackMe](https://tryhackme.com/p/padin).
+My profile - [TryHackMe](https://tryhackme.com/p/padin).
 
-<script src="https://tryhackme.com/badge/t/44e79b6f3fada03b4b799f24b11e9d5f265f4685589c550eade32d7dbaa3d8d44443dbee0d64d5d92bb6e64d22ea898b?theme=dark"></script>
+<img src="https://cdn-images.tryhackme.com/public-profile/padin/badge-dark-b4270e0534e2.png" alt="padin's TryHackMe badge." width="400">
 
 ## 💻 About Me, in Code
 
