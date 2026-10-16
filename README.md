@@ -8,9 +8,8 @@
 </p>
 
 <p align="center">
-  <img width="400px" src="https://skillicons.dev/icons?i=flutter,dart,js,ts,html,css,vuejs,nuxtjs,nodejs,firebase,dotnet,figma&perline=12&size=20" alt="Technologies" />
+  <img width="420px" src="https://skillicons.dev/icons?i=flutter,dart,js,ts,html,css,vuejs,nuxtjs,nodejs,firebase,dotnet,php,aws,linux,bash&perline=15&size=20" alt="Technologies" />
 </p>
-
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/pedroruffo/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
