@@ -1,10 +1,12 @@
 <h1>Hi, I'm Pedro Ruffo 👋</h1>
 
-## 📊 GitHub stats
-
 <p>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedrinnhooo&show_icons=true&theme=tokyonight&hide_border=false" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinnhooo&layout=compact&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,html,css,vuejs,nuxtjs,nodejs,firebase,dotnet,figma&perline=12" />
 </p>
 
 <p>
@@ -15,12 +17,6 @@
 </p>
 
 ---
-
-## 🛠️ Tech stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,html,css,vuejs,nuxtjs,nodejs,firebase,dotnet,figma&perline=12" />
-</p>
 
 ## 🐍 Contributions
 
