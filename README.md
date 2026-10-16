@@ -41,58 +41,67 @@
 ##
 
 ```dart
+
 class Developer {
   final String name;
   final String role;
   final String location;
   final List<String> links;
-  final List<String> stack;
+  final Map<String, List<String>> stack;
 
   Developer()
       : name = 'Pedro Ruffo',
-        role = 'Principal Mobile Flutter Engineer',
+        role = 'Mobile Software Engineer',
         location = 'São Paulo, Brazil',
-         links = [
+        links = [
           'https://pedro-ruffodev.vercel.app',
           'https://www.linkedin.com/in/pedroruffo/',
           'https://tryhackme.com/p/padin',
-          'https://www.secfocus.com.br'
+          'https://www.secfocus.com.br',
         ],
-        stack = [
-            // Mobile
+        stack = {
+          'Mobile': [
             'Flutter',
             'Dart',
             'iOS',
             'Android',
-
-            // Arch & state
+          ],
+          'Architecture & State Management': [
             'Clean Architecture',
             'BLoC',
             'MobX',
             'Provider',
             'Riverpod',
             'Microfrontend',
-
-            // Web
+          ],
+          'Web': [
             'Vue.js',
             'Nuxt.js',
             'TypeScript',
             'PHP',
-
-            // Data & backend
+          ],
+          'Backend & Data': [
             'Firebase',
             'SQL',
-
-            // Design
+            'Node.js',
+            '.NET',
+          ],
+          'Cloud & Systems': [
+            'AWS',
+            'Linux',
+            'Bash',
+          ],
+          'Design': [
             'Figma',
             'Marvel App',
-
-            // Domain
+          ],
+          'Domains': [
             'Finance',
             'iGaming',
-
-            // AI
-            'AI',
-        ];
+          ],
+          'AI': [
+            'Artificial Intelligence',
+          ],
+        };
 }
 ```
