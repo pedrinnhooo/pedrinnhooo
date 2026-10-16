@@ -1,9 +1,9 @@
 
 <h3>Hi, I'm Pedro Ruffo 👋</h3>
 
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedrinnhooo&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinnhooo&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pedrinnhooo&show_icons=true&theme=tokyonight&card_width=450&line_height=20" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinnhooo&layout=compact&theme=tokyonight&card_width=450&langs_count=6" />
 </p>
 
 <p align="center">
