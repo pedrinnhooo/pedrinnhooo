@@ -1,8 +1,10 @@
 <h1>Hi, I'm Pedro Ruffo 👋</h1>
 
+## 📊 GitHub stats
+
 <p>
-  <b>Principal Mobile Flutter Engineer</b> @ H2 Groupe · São Paulo, Brazil 🇧🇷<br/>
-  Detail-oriented developer focused on mobile and web: Flutter, Dart, Clean Architecture, Vue.js, Nuxt.js and TypeScript.
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedrinnhooo&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinnhooo&layout=compact&theme=tokyonight" />
 </p>
 
 <p>
@@ -14,14 +16,6 @@
 
 ---
 
-## 📊 GitHub stats
-
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedrinnhooo&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinnhooo&layout=compact&theme=tokyonight" />
-</p>
-
-
 ## 🛠️ Tech stack
 
 <p>
@@ -30,7 +24,6 @@
 
 ## 🐍 Contributions
 
-<!-- Requer o workflow snake.yml ativo -->
 <img src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/output/snake.svg" />
 
 ## 💼 What I do
