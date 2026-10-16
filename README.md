@@ -12,10 +12,10 @@
 
 ---
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedroruffo/"><img height="26" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://pedro-ruffodev.vercel.app"><img height="26" src="https://img.shields.io/badge/WEBSITE-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
-  <a href="https://tryhackme.com/p/padin"><img height="26" src="https://img.shields.io/badge/TRYHACKME-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-  <a href="mailto:pedro.ruffo.dev@gmail.com"><img height="26" src="https://img.shields.io/badge/GMAIL-333333?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/pedroruffo/"><img height="28" src="https://img.shields.io/badge/%C2%A0LINKEDIN%C2%A0%C2%A0-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://pedro-ruffodev.vercel.app"><img height="28" src="https://img.shields.io/badge/%C2%A0WEBSITE%C2%A0%C2%A0-000000?style=flat&logo=vercel&logoColor=white" alt="Website" /></a>
+  <a href="https://tryhackme.com/p/padin"><img height="28" src="https://img.shields.io/badge/%C2%A0TRYHACKME%C2%A0%C2%A0-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="mailto:pedro.ruffo.dev@gmail.com"><img height="28" src="https://img.shields.io/badge/%C2%A0GMAIL%C2%A0%C2%A0-333333?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
