@@ -33,7 +33,7 @@
   <img width="49%" src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/main/assets/thm_badges.png" alt="TryHackMe Badges" />
 </p>
 
-## 💻 About Me, in Code
+##
 
 ```dart
 class Developer {
