@@ -23,8 +23,8 @@
 ## 📊 GitHub stats
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedrinnhooo&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinnhooo&layout=compact&theme=tokyonight" />
 </p>
 
 ## 💼 What I do
@@ -86,5 +86,5 @@ class Developer {
 
 ## 🐍 Contributions
 
-<!-- Opcional: ative o workflow snake.yml e troque SEU_USUARIO_GITHUB -->
-<img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/snake.svg" />
+<!-- Requer o workflow snake.yml ativo -->
+<img src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/output/snake.svg" />
