@@ -1,15 +1,18 @@
-# Hi, I'm Pedro Ruffo 👋
+<h3>Hi, I'm Pedro Ruffo</h3>
 
-<table width="100%">
- <div class="col-6">
- <img src="https://github-readme-stats.vercel.app/api?username=pedrinnhooo&show_icons=true&theme=tokyonight&hide_border=true&card_width=495" width="100%" alt="GitHub Stats" />
- </div>
-
-  <div class="col-6">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinnhooo&layout=compact&theme=tokyonight&hide_border=true&card_width=495" width="100%" alt="Top Languages" />
-     </div>
-</table>
-
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pedrinnhooo&show_icons=true&theme=tokyonight&hide_border=true&card_width=450&include_all_commits=true"
+    width="49%"
+    height="180"
+    alt="GitHub Stats"
+  /><img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinnhooo&layout=compact&theme=tokyonight&hide_border=true&card_width=450"
+    width="49%"
+    height="180"
+    alt="Top Languages"
+  />
+</div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,html,css,vuejs,nuxtjs,nodejs,firebase,dotnet,figma&perline=12&size=36" alt="Technologies" />
 </p>
