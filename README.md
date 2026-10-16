@@ -14,8 +14,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pedroruffo/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://pedro-ruffodev.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
-  <a href="https://tryhackme.com/p/padin"><img src="https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-  <a href="https://www.secfocus.com.br"><img src="https://img.shields.io/badge/SECFOCUS-1A1A2E?style=for-the-badge&logo=security&logoColor=white" alt="SecFocus" /></a>
+  <a href="https://tryhackme.com/p/padin"><img src="https://img.shields.io/badge/TRYHACKME-7B2CBF?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://www.secfocus.com.br"><img src="https://img.shields.io/badge/SECFOCUS-2ECC71?style=for-the-badge&logo=security&logoColor=white" alt="SecFocus" /></a>
   <a href="mailto:pedro.ruffo.dev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
