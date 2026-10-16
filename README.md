@@ -23,9 +23,7 @@
   <img src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/output/snake.svg" alt="Contribution Snake" />
 </p>
 
-## 🔐 Security
-
-[** TryHackMe **](https://tryhackme.com/p/padin).
+## 🔐 Security [** TryHackMe **](https://tryhackme.com/p/padin).
 
 <p align="center">
   <a href="https://tryhackme.com/p/padin">
