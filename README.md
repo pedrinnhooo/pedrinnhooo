@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img width="600px" src="https://skillicons.dev/icons?i=flutter,dart,js,ts,html,css,vuejs,nuxtjs,nodejs,firebase,dotnet,figma&perline=12&size=20" alt="Technologies" />
+  <img width="400px" src="https://skillicons.dev/icons?i=flutter,dart,js,ts,html,css,vuejs,nuxtjs,nodejs,firebase,dotnet,figma&perline=12&size=20" alt="Technologies" />
 </p>
 
 ---
