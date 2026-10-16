@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/pedroruffo/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://pedro-ruffodev.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
   <a href="https://tryhackme.com/p/padin"><img src="https://img.shields.io/badge/TRYHACKME-7B2CBF?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-  <a href="https://www.secfocus.com.br"><img src="https://img.shields.io/badge/SECFOCUS-F7DC6F?style=for-the-badge&logo=security&logoColor=black" alt="SecFocus" /></a>
+  <a href="https://www.secfocus.com.br"><img src="https://img.shields.io/badge/SECFOCUS-F7DC6F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwMCIgZD0iTTEyIDJMNiA1djZsNiA5IDYtOVY1bC02LTN6bTAgMThsLTQtNmE5IDkgMCAwIDEtNS01VjZsOSA0IDktNFY3YTkgOSAwIDAgMS01IDVsLTQgNnoiLz48L3N2Zz4=" alt="SecFocus" /></a>
   <a href="mailto:pedro.ruffo.dev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
