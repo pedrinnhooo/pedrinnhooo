@@ -54,7 +54,7 @@ class Developer {
             'iOS',
             'Android',
 
-            // Arquitetura e estado
+            // Arch & state
             'Clean Architecture',
             'BLoC',
             'MobX',
@@ -68,7 +68,7 @@ class Developer {
             'TypeScript',
             'PHP',
 
-            // Dados e backend
+            // Data & backend
             'Firebase',
             'SQL',
 
@@ -76,11 +76,11 @@ class Developer {
             'Figma',
             'Marvel App',
 
-            // Domínios
+            // Domain
             'Finance',
             'iGaming',
 
-            // IA
+            // AI
             'AI',
             ],
         links = [
