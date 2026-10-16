@@ -6,6 +6,10 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinnhooo&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,html,css,vuejs,nuxtjs,nodejs,firebase,dotnet,figma&perline=12&size=36" alt="Technologies" />
+</p>
+
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/pedroruffo/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
