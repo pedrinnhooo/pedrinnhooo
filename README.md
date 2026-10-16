@@ -23,7 +23,8 @@
   <img src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/output/snake.svg" alt="Contribution Snake" />
 </p>
 
-## 🔐 Security
+
+<h3>🔐 Security</h3>
 
 [ TryHackMe ](https://tryhackme.com/p/padin)
 
