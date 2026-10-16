@@ -27,9 +27,7 @@
 
 I also study cybersecurity through [TryHackMe](https://tryhackme.com/p/padin).
 
-<p>
-  <a href="https://tryhackme.com/p/padin"><img src="https://img.shields.io/badge/TryHackMe-padin-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" /></a>
-</p>
+<script src="https://tryhackme.com/badge/t/44e79b6f3fada03b4b799f24b11e9d5f265f4685589c550eade32d7dbaa3d8d44443dbee0d64d5d92bb6e64d22ea898b?theme=dark"></script>
 
 ## 💻 About Me, in Code
 
