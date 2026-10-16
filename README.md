@@ -20,6 +20,11 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,html,css,vuejs,nuxtjs,nodejs,firebase,dotnet,figma&perline=12" />
 </p>
 
+## 🐍 Contributions
+
+<!-- Requer o workflow snake.yml ativo -->
+<img src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/output/snake.svg" />
+
 ## 📊 GitHub stats
 
 <p>
@@ -84,7 +89,3 @@ class Developer {
 }
 ```
 
-## 🐍 Contributions
-
-<!-- Requer o workflow snake.yml ativo -->
-<img src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/output/snake.svg" />
