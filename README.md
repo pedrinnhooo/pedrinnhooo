@@ -3,8 +3,8 @@
 <h3>Hi, I'm Pedro Ruffo 👋</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pedrinnhooo&show_icons=true&theme=default&title_color=FF6B9D&icon_color=FF8C42&text_color=FFFFFF&bg_color=161B22&border_color=30363D&card_width=450&line_height=20" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinnhooo&layout=compact&theme=default&title_color=FF6B9D&icon_color=FF8C42&text_color=FFFFFF&bg_color=161B22&border_color=30363D&card_width=450&langs_count=6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pedroruff0&show_icons=true&theme=default&title_color=FF6B9D&icon_color=FF8C42&text_color=FFFFFF&bg_color=161B22&border_color=30363D&card_width=450&line_height=20" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroruff0&layout=compact&theme=default&title_color=FF6B9D&icon_color=FF8C42&text_color=FFFFFF&bg_color=161B22&border_color=30363D&card_width=450&langs_count=6" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/output/snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/pedroruff0/pedroruff0/output/snake.svg" alt="Contribution Snake" />
 </p>
 
 
@@ -34,7 +34,7 @@
     <img src="https://cdn-images.tryhackme.com/public-profile/padin/badge-dark-b4270e0534e2.png" alt="padin's TryHackMebadge" width="400">
   </a>
   <a href="https://tryhackme.com/p/padin" target="_blank">
-    <img width="49%" src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/main/assets/thm_badges.png" alt="TryHackMe Badges" />
+    <img width="49%" src="https://raw.githubusercontent.com/pedroruff0/pedroruff0/main/assets/thm_badges.png" alt="TryHackMe Badges" />
   </a>
 </p>
 
