@@ -25,7 +25,7 @@
 
 ## 🔐 Security
 
-[ TryHackMe ](https://tryhackme.com/p/padin).
+[ TryHackMe ](https://tryhackme.com/p/padin)
 
 <p align="center">
   <a href="https://tryhackme.com/p/padin">
