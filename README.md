@@ -18,7 +18,7 @@
 
 ---
 
-## 🐍 Contributions
+## 🐍
 
 <img src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/output/snake.svg" />
 
