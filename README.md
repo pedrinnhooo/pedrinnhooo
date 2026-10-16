@@ -1,8 +1,13 @@
 # Hi, I'm Pedro Ruffo 👋
 
 <table width="100%">
-      <img src="https://github-readme-stats.vercel.app/api?username=pedrinnhooo&show_icons=true&theme=tokyonight&hide_border=true&card_width=495" width="100%" alt="GitHub Stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinnhooo&layout=compact&theme=tokyonight&hide_border=true&card_width=495" width="100%" alt="Top Languages" />
+ <div class="col-6">
+ <img src="https://github-readme-stats.vercel.app/api?username=pedrinnhooo&show_icons=true&theme=tokyonight&hide_border=true&card_width=495" width="100%" alt="GitHub Stats" />
+ </div>
+
+  <div class="col-6">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinnhooo&layout=compact&theme=tokyonight&hide_border=true&card_width=495" width="100%" alt="Top Languages" />
+     </div>
 </table>
 
 <p align="center">
