@@ -45,13 +45,19 @@ class Developer {
   final String name;
   final String role;
   final String location;
-  final List<String> stack;
   final List<String> links;
+  final List<String> stack;
 
   Developer()
       : name = 'Pedro Ruffo',
         role = 'Principal Mobile Flutter Engineer',
         location = 'São Paulo, Brazil',
+         links = [
+          'https://pedro-ruffodev.vercel.app',
+          'https://www.linkedin.com/in/pedroruffo/',
+          'https://tryhackme.com/p/padin',
+          'https://www.secfocus.com.br'
+        ],
         stack = [
             // Mobile
             'Flutter',
@@ -87,12 +93,6 @@ class Developer {
 
             // AI
             'AI',
-            ],
-        links = [
-          'https://pedro-ruffodev.vercel.app',
-          'https://www.linkedin.com/in/pedroruffo/',
-          'https://tryhackme.com/p/padin',
-          'https://www.secfocus.com.br'
         ];
 }
 ```
