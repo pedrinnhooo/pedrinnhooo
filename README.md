@@ -28,7 +28,8 @@
 TryHackMe - [TryHackMe](https://tryhackme.com/p/padin).
 
 <p align="center">
-  <a href="https://tryhackme.com/p/padin"><img width="49%" src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/main/assets/thm_propic.png" alt="TryHackMe Profile" /></a>
+  <a href="https://tryhackme.com/p/padin">
+  <img src="https://cdn-images.tryhackme.com/public-profile/padin/badge-dark-b4270e0534e2.png" alt="padin's TryHackMe badge." width="400"></a>
   <img width="49%" src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/main/assets/thm_badges.png" alt="TryHackMe Badges" />
 </p>
 
