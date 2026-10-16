@@ -16,6 +16,7 @@
   <a href="https://tryhackme.com/p/padin"><img src="https://img.shields.io/badge/TRYHACKME-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
   <a href="mailto:pedro.ruffo.dev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-333333?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
+
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/output/snake.svg" alt="Contribution Snake" />
