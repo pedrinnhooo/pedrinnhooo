@@ -2,20 +2,20 @@
 <h3>Hi, I'm Pedro Ruffo 👋</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pedrinnhooo&show_icons=true&theme=tokyonight&card_width=450&line_height=20" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinnhooo&layout=compact&theme=tokyonight&card_width=450&langs_count=6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pedrinnhooo&show_icons=true&theme=default&title_color=FF6B9D&icon_color=FF8C42&text_color=FFFFFF&bg_color=0D1117&border_color=FF6B9D&card_width=450&line_height=20" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinnhooo&layout=compact&theme=default&title_color=FF6B9D&icon_color=FF8C42&text_color=FFFFFF&bg_color=0D1117&border_color=FF6B9D&card_width=450&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,html,css,vuejs,nuxtjs,nodejs,firebase,dotnet,figma&perline=12&size=25" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,html,css,vuejs,nuxtjs,nodejs,firebase,dotnet,figma&perline=12&size=20" alt="Technologies" />
 </p>
 
 ---
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedroruffo/"><img height="40" src="https://img.shields.io/badge/%C2%A0LINKEDIN%C2%A0%C2%A0-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://pedro-ruffodev.vercel.app"><img height="40" src="https://img.shields.io/badge/%C2%A0WEBSITE%C2%A0%C2%A0-000000?style=flat&logo=vercel&logoColor=white" alt="Website" /></a>
-  <a href="https://tryhackme.com/p/padin"><img height="40" src="https://img.shields.io/badge/%C2%A0TRYHACKME%C2%A0%C2%A0-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-  <a href="mailto:pedro.ruffo.dev@gmail.com"><img height="40" src="https://img.shields.io/badge/%C2%A0GMAIL%C2%A0%C2%A0-333333?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/pedroruffo/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://pedro-ruffodev.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+  <a href="https://tryhackme.com/p/padin"><img src="https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="mailto:pedro.ruffo.dev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
