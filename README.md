@@ -31,11 +31,6 @@ I also study cybersecurity through [TryHackMe](https://tryhackme.com/p/padin).
   <a href="https://tryhackme.com/p/padin"><img src="https://img.shields.io/badge/TryHackMe-padin-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" /></a>
 </p>
 
-## 🎓 Education
-
-- Information Systems, FIAP (2021)
-- High-Performance Software Engineering, FIAP (2023)
-
 ## 💻 About Me, in Code
 
 ```dart
