@@ -23,24 +23,6 @@
   <img src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/output/snake.svg" alt="Contribution Snake" />
 </p>
 
-## 💼 What I Do
-
-- 📱 Define technical vision and architecture for high-performance, secure, and scalable Flutter apps
-- 🔐 Led LGPD compliance projects, including privacy request flows with facial and document recognition
-- 💳 Built banking and credit card apps for Banpará, BNB, Losango, Afinz, and BlueC, including Apple Pay, Google Pay, and Samsung Pay integrations
-- 🌐 Web development with Nuxt.js, Vue.js, TypeScript, HTML, and CSS
-- 🎨 UI/UX design with Figma
-- 👥 Mentor developers, conduct code reviews, and establish engineering standards
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| **H2 Club** | iOS and Android membership app with club schedules, tournaments, JWT authentication, and segmented push notifications |
-| **BNB / Banpará / Losango** | White-label banking and credit card apps built with Clean Architecture |
-| **Afinz** | Mobile banking app for iOS and Android |
-| **BlueC** | Digital wallet with payment integrations |
-
 ## 🔐 Security
 
 I also study cybersecurity through [TryHackMe](https://tryhackme.com/p/padin).
