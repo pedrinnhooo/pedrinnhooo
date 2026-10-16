@@ -51,16 +51,39 @@ class Developer {
         role = 'Principal Mobile Flutter Engineer',
         location = 'São Paulo, Brazil',
         stack = [
-          'Flutter',
-          'Dart',
-          'Clean Architecture',
-          'BLoC',
-          'Vue.js',
-          'Nuxt.js',
-          'TypeScript',
-          'Firebase',
-          'Figma',
-        ],
+            // Mobile
+            'Flutter',
+            'Dart',
+            'iOS',
+            'Android',
+
+            // Arquitetura e estado
+            'Clean Architecture',
+            'BLoC',
+            'MobX',
+            'Microfrontend',
+
+            // Web
+            'Vue.js',
+            'Nuxt.js',
+            'TypeScript',
+            'PHP',
+
+            // Dados e backend
+            'Firebase',
+            'SQL',
+
+            // Design
+            'Figma',
+            'Marvel App',
+
+            // Domínios
+            'Finance',
+            'iGaming',
+
+            // IA
+            'AI',
+            ],
         links = [
           'https://pedro-ruffodev.vercel.app',
           'https://www.linkedin.com/in/pedroruffo/',
