@@ -61,15 +61,26 @@ class Developer {
         ],
         stack = {
           'Mobile': ['Flutter', 'Dart', 'iOS', 'Android'],
-          'Architecture': ['Clean Architecture', 'BLoC', 'MobX'],
+
+          'Architecture & State': [
+            'Clean Architecture',
+            'BLoC',
+            'MobX',
+            'Provider',
+            'Riverpod',
+            'Microfrontend',
+          ],
 
           'Web': ['Vue.js', 'Nuxt.js', 'TypeScript', 'PHP'],
-          'Backend': ['Firebase', 'SQL', 'Node.js', '.NET'],
 
-          'Cloud': ['AWS', 'Linux', 'Bash'],
+          'Backend & Data': ['Firebase', 'SQL', 'Node.js', '.NET'],
+
+          'Cloud & Systems': ['AWS', 'Linux', 'Bash'],
+
           'Design': ['Figma', 'Marvel App'],
 
           'Domains': ['Finance', 'iGaming'],
+          
           'AI': ['Artificial Intelligence'],
         };
 }
