@@ -89,6 +89,7 @@ class Developer {
           'https://pedro-ruffodev.vercel.app',
           'https://www.linkedin.com/in/pedroruffo/',
           'https://tryhackme.com/p/padin',
+          'https://www.secfocus.com.br'
         ];
 }
 ```
