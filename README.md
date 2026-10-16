@@ -17,9 +17,6 @@
 </p>
 
 ---
-
-## 🐍
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/output/snake.svg" alt="Contribution Snake" />
 </p>
