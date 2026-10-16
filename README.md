@@ -1,20 +1,26 @@
-<h3>Hi, I'm Pedro Ruffo</h3>
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pedrinnhooo&show_icons=true&theme=tokyonight&hide_border=true&card_width=460&hide_title=false"
-    width="460"
-    height="180"
-    alt="GitHub Stats"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinnhooo&layout=compact&theme=tokyonight&hide_border=true&card_width=460"
-    width="460"
-    height="180"
-    alt="Top Languages"
-  />
-</div>
+<h3>Hi, I'm Pedro Ruffo 👋</h3>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=pedrinnhooo&show_icons=true&theme=tokyonight&hide_border=true"
+        width="100%"
+        height="180"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinnhooo&layout=compact&theme=tokyonight&hide_border=true"
+        width="100%"
+        height="180"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,html,css,vuejs,nuxtjs,nodejs,firebase,dotnet,figma&perline=12&size=36" alt="Technologies" />
