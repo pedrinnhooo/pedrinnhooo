@@ -38,6 +38,10 @@
   </a>
 </p>
 
+  <a href="https://tryhackme.com/p/padin" target="_blank">
+   <img width="49%" src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/main/assets/thm_ative.png" alt="TryHackMe Badges">
+  </a>
+
 ##
 
 ```dart
