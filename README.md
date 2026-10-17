@@ -1,6 +1,11 @@
 
+
+
+
 ---
 <h3>Hi, I'm Pedro Ruffo 👋</h3>
+
+https://github.com/user-attachments/assets/d63f115e-a1c1-4f01-8b0f-042fe00334ff
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pedrinnhooo&show_icons=true&theme=default&title_color=FF6B9D&icon_color=FF8C42&text_color=FFFFFF&bg_color=161B22&border_color=30363D&card_width=450&line_height=20" />
