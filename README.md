@@ -63,14 +63,7 @@ class Developer {
         stack = {
           'Mobile': ['Flutter', 'Dart', 'iOS', 'Android'],
 
-          'Architecture & State': [
-            'Clean Architecture',
-            'BLoC',
-            'MobX',
-            'Provider',
-            'Riverpod',
-            'Microfrontend',
-          ],
+          'Arch & State': ['Clean Architecture', 'BLoC', 'MobX', 'Provider', 'Riverpod', 'Microfrontend'],
 
           'Web': ['Vue.js', 'Nuxt.js', 'TypeScript', 'PHP'],
 
