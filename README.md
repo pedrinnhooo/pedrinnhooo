@@ -33,11 +33,9 @@
   <a href="https://tryhackme.com/p/padin" target="_blank">
     <img src="https://cdn-images.tryhackme.com/public-profile/padin/badge-dark-b4270e0534e2.png" alt="padin's TryHackMebadge" width="400">
   </a>
+  
   <a href="https://tryhackme.com/p/padin" target="_blank">
    <img width="49%" src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/main/assets/thm_badges.png" alt="TryHackMe Badges">
-  </a>
-  <a href="https://tryhackme.com/p/padin" target="_blank">
-   <img width="100%" src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/main/assets/thm_ative.png" alt="TryHackMe Badges">
   </a>
 </p>
 
