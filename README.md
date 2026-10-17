@@ -25,7 +25,9 @@
 </p>
 
 
-<h3>🔐 Security</h3> --> [ TryHackMe ](https://tryhackme.com/p/padin) 
+<h3>🔐 Security</h3>
+
+--> [ TryHackMe ](https://tryhackme.com/p/padin) 
 
 <p align="center">
   <a href="https://tryhackme.com/p/padin" target="_blank">
