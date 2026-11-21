@@ -15,13 +15,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Sutil/snk está quebrado (gera só a cobra sem o grid).
-      # Platane/snk@v3 já permite color_snake=blue.
+      # SNAKE_TOKEN (PAT do teu user com read:user) inclui contribuições privadas.
+      # Sem esse secret, cai no token padrão e só conta públicas.
       - name: generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.SNAKE_TOKEN || github.token }}
           outputs: |
             dist/github-snake.svg?palette=github-dark&color_snake=#69e3dd
 
