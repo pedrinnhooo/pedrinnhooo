@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/output/snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/pedrinnhooo/pedrinnhooo/output/snake.svg?v=3" alt="Contribution Snake" />
 </p>
 
 
